@@ -1,0 +1,13 @@
+export { HomePage } from "./HomePage";
+export { Navbar } from "./Navbar";
+export { Search } from "./Search";
+export { Carousel } from "./Carousel";
+export { CarouselCategory } from "./CarouselCategory";
+export { CarouselProduct } from "./CarouselProduct";
+export { HomePageCard } from "./HomePageCard";
+export { SearcResult } from "./SearcResult";
+export { Checkout } from "./Checkout";
+export { ProductPage } from "./ProductPage";
+export { ProductDetails } from "./ProductDetails";
+export { ProductBadge } from "./ProductBadge";
+export { ProductRatings } from "./ProductRatings";
